@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Тема (HTML lesson 2)</title>
+    <title> Тема (HTML lesson 2) </title>
   </head>
   <body>
     <header>
